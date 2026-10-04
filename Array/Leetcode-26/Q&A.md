@@ -32,6 +32,8 @@ We use two pointers:
 3. If they are different, copy nums[j] to nums[i+1] and increment 1
 4. At the end, i+1 is the number of unique elements.
 
+![alt text](image.png)
+
 ### Complexity
 
 ```
